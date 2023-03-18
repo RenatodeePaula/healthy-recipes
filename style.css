@@ -1,0 +1,29 @@
+
+* {
+    margin:0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;    
+}
+
+body {
+    font-family: 'Spectral', serif; 
+    text-align: center;
+
+    background: url(./assets/bg.jpg) no-repeat center/cover;
+    height: 100vh;
+    color: #EBF1FB
+
+}
+
+h1 {
+    font-family: 'Beth Ellen', cursive;
+    color: #5EEAD4;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 120px;
+}
+
+a {
+   color: #EBF1FB;
+}
